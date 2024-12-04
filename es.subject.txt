@@ -4,10 +4,10 @@ Instrucciones:
 
 - Clonar dicho repositorio en local.
 
-- Crear una rama "dev" en base a "main".
+- Crear una rama "<login>" en base a "main".
 
 - Añadir un archivo que contenga el historial de commits.
 
 - Publicar la rama.
 
-- Añadir los cambios de "dev" a "main".
+- Añadir los cambios de "<login>" a "main".
