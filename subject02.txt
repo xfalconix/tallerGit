@@ -4,9 +4,9 @@ Con el compañero más cercano a ti:
 
 - Crear un repositorio donde ambos sean colaboradores.
 
-- En main crear un archivo minishell.c que utilice un printf para imprimir un "Hola Mundo!" y subanlo al repositorio
+- En main crear un archivo minishell.c que utilice un printf para imprimir un "Hola Mundo!" y súbanlo al repositorio
 
-- Crear una rama desde main con la que trabajara la persona 1
+- Crear una rama desde main con la que trabajará la persona 1
 
 - Persona 1 en la rama <login 1>: 
 
@@ -18,7 +18,7 @@ Con el compañero más cercano a ti:
 
      - Anadir los cambios de "<login>" a "main".
 
-- Crear una rama desde main con la que trabajara la persona 2
+- Crear una rama desde main con la que trabajará la persona 2
 
 - Persona 2 en la rama <login 2>:
      
@@ -30,4 +30,4 @@ Con el compañero más cercano a ti:
 
      - Añade los cambios de <login> a "main"
 
-¿Por qué creen que hubieron conflictos en el minishell.c?
+¿Por qué creen que hubo conflictos en el minishell.c?
