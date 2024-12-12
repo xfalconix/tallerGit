@@ -4,14 +4,13 @@ Con el compañero más cercano a ti:
 
 - Crear un repositorio donde ambos sean colaboradores.
 
-
 - En main crear un archivo minishell.c que utilice un printf para imprimir un "Hola Mundo!" y subanlo al repositorio
 
 - Crear una rama desde main con la que trabajara la persona 1
 
-- Persona 1 en la rama <login 1>:
+- Persona 1 en la rama <login 1>: 
 
-     - En minishell.c. Realiza la funcion ft_putstr
+     - En minishell.c. Realiza la funcion ft_putstr.
 
      - Crear un archivo "get_next_line.c" y realicen la funcion ft_putchar.
 
@@ -23,7 +22,7 @@ Con el compañero más cercano a ti:
 
 - Persona 2 en la rama <login 2>:
      
-     - Modifica minishell.c para que ft_putstr retorne cuantos caracteres se imprimieron.
+     - En minishell.c realiza la funcion ft_putstr y que retorne cuantos caracteres se imprimieron.
 
      - Crea un archivo "ft_printf" y que dentro tenga un printf para imprimir "Hola Universo!"
 
