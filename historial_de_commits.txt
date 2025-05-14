@@ -1,0 +1,9 @@
+5e39d80 - PaLucena: docs: Added gitignore section
+6c8a46d - PaLucena: feat: Improved pptx
+2d3d9be - PaLucena: docs: created subject00 & subject03, completed subject02
+e41bdd6 - Delfina Maria Luz Parada: changed subject02
+7d1f8bf - Delfina Maria Luz Parada: added first draft of subject02.txt
+2a5a5bb - PaLucena: docs: branch name
+8a3e774 - PaLucena: feat: replaced pptx
+700f845 - PaLucena: feat: added subject && resources
+93bf675 - Pablo Lucena González: Initial commit
